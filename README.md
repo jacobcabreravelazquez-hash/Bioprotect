@@ -1796,7 +1796,7 @@ function sendWhatsApp(e) {
   const qty = document.getElementById('fqty').value || '1';
   const msg = document.getElementById('fmsg').value || '';
   const text = `Hola! Me llamo ${name}${phone ? ', mi número es ' + phone : ''}. Quiero pedir ${qty} unidad(es) de Bioprotect Casa Libre.${msg ? ' ' + msg : ''} ¿Me pueden ayudar?`;
-  const url = `https://wa.me/525640386027?text=${encodeURIComponent(text)}`;
+  const url = `https://wa.me/525649386027?text=${encodeURIComponent(text)}`;
   window.open(url, '_blank');
 }
 
