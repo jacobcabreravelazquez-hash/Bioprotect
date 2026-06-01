@@ -1723,7 +1723,7 @@
       <h4>Contacto</h4>
       <ul>
         <li><span>📞 56 4938 6027</span></li>
-        <li><a href="https://wa.me/525640386027">💬 WhatsApp</a></li>
+        <li><a href="https://wa.me/525649386027">💬 WhatsApp</a></li>
         <li><a href="https://maps.app.goo.gl/ApjRSxcXCZwEg59D7?g_st=ac" target="_blank">📍 León, Guanajuato</a></li>
         <li><span>🕐 Lun–Sab 9am–7pm</span></li>
       </ul>
